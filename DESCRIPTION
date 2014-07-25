@@ -1,0 +1,15 @@
+Package: idgaf
+Type: Package
+Title: GitHub Commits Containing the Word "fuck" (from 3/11/2012 to 7/24/2014)
+Version: 1.0
+Description: This package contains all public GitHub commits containing
+        the word "fuck" from 3/11/2012 to 7/24/2014.  Find out just how
+        many fucks developers really do give.
+License: BSD 2-clause License + file LICENSE
+Depends: R (>= 2.14.0)
+Enhances: ggplot2, ngram
+NeedsCompilation: no
+ByteCompile: no
+LazyData: yes
+Author: Drew Schmidt
+Maintainer: Drew Schmidt <wrathematics@gmail.com>
