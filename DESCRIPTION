@@ -11,5 +11,5 @@ Enhances: ggplot2, ngram
 NeedsCompilation: no
 ByteCompile: no
 LazyData: yes
-Author: Drew Schmidt
+Author: Max Woolf, Drew Schmidt
 Maintainer: Drew Schmidt <wrathematics@gmail.com>
